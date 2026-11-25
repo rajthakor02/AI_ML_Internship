@@ -1,0 +1,16 @@
+[
+    {
+        "employee_id": "raj",
+        "name": "raj ajitbhai patanvadiya",
+        "department": "computer science and engineering",
+        "email": "rajpatanvadiya5060@gmail.com",
+        "joining_date": "2026-11-25"
+    },
+    {
+        "employee_id": "dishant",
+        "name": "dishantshih mahida",
+        "department": "cse",
+        "email": "dishantshih@gmail.com",
+        "joining_date": "2021-11-23"
+    }
+]
