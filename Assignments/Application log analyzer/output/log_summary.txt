@@ -1,0 +1,18 @@
+application log analysis report
+========================================
+total valid entries: 13
+LOG LEVEL SUMMARY
+info: 4
+warning: 2
+error: 7
+
+TIMESTAMP RANGE
+farliest timestamp: 2026-10-01 09:10:00
+latest timestamp: 2026-10-01 09:24:00
+
+top 5 frequent error messages
+Database connection failed: 4 times
+Payment failed: 2 times
+API request failed: 1 times
+
+invalid line: 3

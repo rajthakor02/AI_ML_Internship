@@ -1,0 +1,16 @@
+
+2026-10-01 09:10:00 INFO Application started
+2026-10-01 09:12:14 WARNING Retry attempt 1
+2026-10-01 09:13:05 ERROR Database connection failed
+2026-10-01 09:14:20 ERROR Database connection failed
+2026-10-01 09:15:00 INFO Request completed
+2026-10-01 09:16:00 ERROR Payment failed
+2026-10-01 09:17:00 WARNING Slow response detected
+2026-10-01 09:18:00 ERROR Database connection failed
+2026-10-01 09:19:00 INFO User logged in
+2026-10-01 09:20:00 ERROR Payment failed
+2026-10-01 09:21:00 ERROR API request failed
+2026-10-01 09:22:00 ERROR Database connection failed
+2026-10-01 09:23:00 DEBUG Debug message
+This is a malformed log line
+2026-10-01 09:24:00 INFO Application stopped
