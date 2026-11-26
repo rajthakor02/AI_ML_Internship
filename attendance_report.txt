@@ -1,0 +1,50 @@
+MONTHLY ATTENDANCE REPORT
+========================================
+Selected Month: 2026-10
+
+Employee ID: E101
+Present: 3
+Absent: 1
+Leave: 1
+Total Days: 5
+Attendance: 60.00%
+------------------------------
+Employee ID: E102
+Present: 4
+Absent: 1
+Leave: 0
+Total Days: 5
+Attendance: 80.00%
+------------------------------
+Employee ID: E103
+Present: 3
+Absent: 1
+Leave: 1
+Total Days: 5
+Attendance: 60.00%
+------------------------------
+Employee ID: E104
+Present: 4
+Absent: 1
+Leave: 0
+Total Days: 5
+Attendance: 80.00%
+------------------------------
+Employee ID: E105
+Present: 3
+Absent: 1
+Leave: 1
+Total Days: 5
+Attendance: 60.00%
+------------------------------
+
+ATTENDANCE FORMULA
+Present / (Present + Absent + Leave) * 100
+
+Rejected Rows: 0
+
+VALIDATION ERRORS
+No validation errors.
+
+DUPLICATE RECORDS
+No duplicate records.

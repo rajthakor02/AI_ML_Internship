@@ -2,7 +2,7 @@ from employee_service import (
     add_employee,
     list_employees,
     find_employee,
-    update_employee,
+    update_employee,    
     delete_employee
 )
 
@@ -97,5 +97,4 @@ def main():
             print("Invalid choice! Please select 1 to 6.")
 
 
-if __name__ == "__main__":
-    main()
+main()
